@@ -1,3 +1,4 @@
 # python-projects
 These are some of my python projects
-\nYou will need the https://github.com/rsalmei/alive-progress library for many of these to work
+
+You will need the https://github.com/rsalmei/alive-progress library for many of these to work
